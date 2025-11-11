@@ -1,5 +1,5 @@
 
-🌍 **Wanderlust** — A full-featured travel website designed to inspire and simplify travel planning.
+🌍 **Travel Site ** — A full-featured travel website designed to inspire and simplify travel planning.
 Wanderlust allows users to explore top destinations, view travel guides, check reviews, and plan their trips all in one place. The platform provides a smooth, user-friendly experience with beautiful layouts, responsive design, and dynamic content management.
 
 ✨ **Features:**
